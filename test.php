@@ -11,7 +11,7 @@
 //
 */
 
-
+modifying all things
 class db_operations{
 	function db_connect(){
 	//Initializing variables with the necesary data to connect to your database
