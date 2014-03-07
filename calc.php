@@ -1,7 +1,7 @@
  <?php
    require('calcPHP.php');
  ?>
- 
+//new lines for new3 
  <HTML>
    <HEAD>
       <TITLE>Calculator</TITLE>
